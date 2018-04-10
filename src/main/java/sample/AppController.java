@@ -8,6 +8,6 @@ public class AppController {
 	@RequestMapping("/gettingstarted")
 	public String gettingStarted()
 	{
-	return "Getting Started with Spring";
+	return "Getting Started with Spring project";
 	}
 }
